@@ -1,0 +1,12 @@
+contentColumnType: string(255)
+fieldGroup: a2d83bec-ca3d-459e-af81-1d44cfb17e7c
+handle: callToActionLink
+instructions: ''
+name: 'Call To Action Link'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url
