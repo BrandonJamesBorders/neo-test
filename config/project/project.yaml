@@ -1,0 +1,17 @@
+dateModified: 1602707072
+email:
+  fromEmail: bborders@reusserdesign.com
+  fromName: 'Neo Test'
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: 'Neo Test'
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

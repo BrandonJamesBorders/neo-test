@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Neo Test'
+primary: true
+siteGroup: 3d22d708-4bc1-4b18-a417-256ec1bdd432
+sortOrder: 1
