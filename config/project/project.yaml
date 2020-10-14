@@ -1,8 +1,13 @@
-dateModified: 1602707072
+dateModified: 1602707243
 email:
   fromEmail: bborders@reusserdesign.com
   fromName: 'Neo Test'
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  neo:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.8.0
 system:
   edition: solo
   live: true
