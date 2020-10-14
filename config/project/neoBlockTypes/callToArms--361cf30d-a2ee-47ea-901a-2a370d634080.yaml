@@ -25,10 +25,10 @@ fieldLayouts:
             width: 100
         name: 'Tab 1'
         sortOrder: 1
-handle: callToAction
+handle: callToArms
 maxBlocks: 0
 maxChildBlocks: 0
 maxSiblingBlocks: 0
-name: 'Call To Action'
-sortOrder: 4
+name: 'Call To Arms'
+sortOrder: 5
 topLevel: true
