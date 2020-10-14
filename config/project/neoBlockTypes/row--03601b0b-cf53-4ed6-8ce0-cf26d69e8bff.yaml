@@ -1,5 +1,4 @@
-childBlocks:
-  - column
+childBlocks: '["column"]'
 field: 5ac322de-cffe-4790-a38f-fb6c14f10a55
 handle: row
 maxBlocks: 0

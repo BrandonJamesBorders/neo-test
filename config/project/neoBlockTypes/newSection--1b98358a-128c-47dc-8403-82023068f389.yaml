@@ -1,8 +1,7 @@
-childBlocks:
-  - row
+childBlocks: '["row"]'
 field: 5ac322de-cffe-4790-a38f-fb6c14f10a55
 fieldLayouts:
-  -
+  15cc2e32-72b7-4a51-b08a-e6ffee4557f1:
     tabs:
       -
         elements:
