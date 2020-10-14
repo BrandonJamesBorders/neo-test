@@ -1,5 +1,4 @@
-childBlocks:
-  - row
+childBlocks: ''
 field: 5ac322de-cffe-4790-a38f-fb6c14f10a55
 fieldLayouts:
   -
@@ -7,7 +6,16 @@ fieldLayouts:
       -
         elements:
           -
-            fieldUid: 4ebd7712-c464-41e5-b5c8-0aa70a920cbb
+            fieldUid: 7f342f87-8956-4d6b-93bc-ef83d7f50a25
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 927a7dbe-d945-4332-989b-c69d027c4b70
             instructions: null
             label: null
             required: false
@@ -17,10 +25,10 @@ fieldLayouts:
             width: 100
         name: 'Tab 1'
         sortOrder: 1
-handle: newSection
+handle: testimonial
 maxBlocks: 0
 maxChildBlocks: 0
 maxSiblingBlocks: 0
-name: Section
-sortOrder: 1
+name: Testimonial
+sortOrder: 4
 topLevel: true
