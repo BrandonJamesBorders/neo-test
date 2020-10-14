@@ -1,0 +1,26 @@
+childBlocks:
+  - row
+field: 5ac322de-cffe-4790-a38f-fb6c14f10a55
+fieldLayouts:
+  -
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 4ebd7712-c464-41e5-b5c8-0aa70a920cbb
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Tab 1'
+        sortOrder: 1
+handle: newSection
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+name: Section
+sortOrder: 1
+topLevel: true

@@ -1,0 +1,10 @@
+childBlocks:
+  - column
+field: 5ac322de-cffe-4790-a38f-fb6c14f10a55
+handle: row
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+name: Row
+sortOrder: 2
+topLevel: false

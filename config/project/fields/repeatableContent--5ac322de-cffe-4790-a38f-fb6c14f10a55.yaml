@@ -1,0 +1,15 @@
+contentColumnType: string
+fieldGroup: a2d83bec-ca3d-459e-af81-1d44cfb17e7c
+handle: repeatableContent
+instructions: ''
+name: 'Repeatable Content'
+searchable: false
+settings:
+  maxBlocks: ''
+  maxTopBlocks: ''
+  minBlocks: ''
+  propagationMethod: all
+  wasModified: true
+translationKeyFormat: null
+translationMethod: site
+type: benf\neo\Field
